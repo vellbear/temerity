@@ -1,5 +1,5 @@
-# Temere
-Temere is a travel planner web app designed to help users organize their trips into easily managable itineraries.
+# Temerity
+Temerity is a travel planner web app designed to help users organize their trips into easily managable itineraries.
 
 ## Initial Limitations
 This app will be tailored to my own primary use case, and what I can get done in the time allotted. Therefore, the app will have some of the following limitations:
