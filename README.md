@@ -8,7 +8,6 @@ This app will be tailored to my own primary use case, and what I can get done in
 
 ## Built With
 - Next.js
-- NextUI
 - TailwindCSS
   
 ## Roadmap
