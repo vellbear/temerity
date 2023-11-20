@@ -10,7 +10,7 @@ interface NavbarProps {
 
 export default function Navbar({ back }: NavbarProps) {
   return (
-    <nav className="fixed left-0 right-0 z-50 flex items-center justify-between bg-white px-7">
+    <nav className="fixed left-0 right-0 z-50 flex items-center justify-between pt-12 bg-white px-7">
       <Image
         width={32}
         height={32}
