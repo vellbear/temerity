@@ -8,7 +8,7 @@ export default function Trip() {
       <div className="col-start-1 row-start-1 border-2 border-white w-[calc(100%-1.5rem)] mt-4 rounded-t-3xl border-x-2 border-t-2 border-b-[1px]"></div>
 
       <div className="bg-[#2e2e2e] text-white text-sm px-6 pb-6 pt-4 grid rounded-b-3xl w-[calc(100%-1.5rem)] border-x-2 border-b-2 border-t-[1px] border-white">
-        <span className="text-sm text-t-green">Starting in 40 days</span>
+        <span className="text-sm text-t-green">Starting in 20 days</span>
         <h2 className="text-xl font-bold">New York Trip 2024</h2>
         <span className="flex items-center gap-4 pt-2">
           <LocationSVG />
